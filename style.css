@@ -16,11 +16,11 @@ img {
 }
 
 .media {
-    width: auto;
+    width: 80%;
     height: auto;
     display: flex;
-    margin-left: 30px;
     margin-top: 50px;
+    margin-left: 10%;
     justify-content: space-evenly;
 }
 
